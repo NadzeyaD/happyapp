@@ -1,2 +1,2 @@
-# pearly_owl
-Streamer site
+# HappyApp
+Mental state tracker
